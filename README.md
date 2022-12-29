@@ -7,6 +7,7 @@ Certificates that I obtain as part of my self-improvement, learning and keeping 
 </p>
 
 ## Software Development
+- [JavaScript – Deep Dive (12/2022)](https://github.com/jakubjirous/certificates/blob/main/software-development/2022-12-javascript-deep-dive.pdf) [[online version]](https://scrimba.com/certificate/u3kER2Hg/gjavascript)
 - [Vue – The Complete Guide (Router, Vuex, Composition API) (10/2021)](https://github.com/jakubjirous/certificates/blob/main/software-development/2021-11-udemy-vue.pdf)
 - [Ionic – Build iOS, Android & Web Apps with Ionic & Angular (10/2021)](https://github.com/jakubjirous/certificates/blob/main/software-development/2021-10-udemy-ionic-angular.pdf)
 - [Understanding TypeScript – 2021 Edition (09/2021)](https://github.com/jakubjirous/certificates/blob/main/software-development/2021-09-udemy-understanding-typescript-2021.pdf)
