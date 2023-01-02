@@ -7,6 +7,7 @@ Certificates that I obtain as part of my self-improvement, learning and keeping 
 </p>
 
 ## Software Development
+- [Advanced React (01/2023)](/software-development/2023-01-advanced-react.pdf) [[online version]](https://scrimba.com/certificate/u3kER2Hg/greact)
 - [JavaScript – Deep Dive (12/2022)](/software-development/2022-12-javascript-deep-dive.pdf) [[online version]](https://scrimba.com/certificate/u3kER2Hg/gjavascript)
 - [Hacker Rank – CSS (12/2022)](/software-development/2022-12-hacker-rank-css.pdf) [[online version]](https://www.hackerrank.com/certificates/4a3526950852)
 - [Vue – The Complete Guide (Router, Vuex, Composition API) (10/2021)](/software-development/2021-11-udemy-vue.pdf)
