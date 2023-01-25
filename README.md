@@ -7,6 +7,8 @@ Certificates that I obtain as part of my self-improvement, learning and keeping 
 </p>
 
 ## Software Development
+
+- [Build Reusable React (01/2023)](/software-development/2023-01-build-reusable-react.pdf) [[online version]](https://www.udemy.com/certificate/UC-287ee196-2b04-4e98-bd09-0f78ebac2488/)
 - [Testing React with Jest and React Testing Library (RTL) (01/2023)](/software-development/2023-01-testing-react-jest-and-rtl.pdf) [[online version]](https://www.udemy.com/certificate/UC-287ee196-2b04-4e98-bd09-0f78ebac2488/)
 - [Advanced React (01/2023)](/software-development/2023-01-advanced-react.pdf) [[online version]](https://scrimba.com/certificate/u3kER2Hg/greact)
 - [JavaScript – Deep Dive (12/2022)](/software-development/2022-12-javascript-deep-dive.pdf) [[online version]](https://scrimba.com/certificate/u3kER2Hg/gjavascript)
@@ -21,3 +23,7 @@ Certificates that I obtain as part of my self-improvement, learning and keeping 
 - [Architecture of software systems (03/2018)](/software-development/2018-03-gopas.pdf)
 - [Championship in Nette (03/2018)](/software-development/2018-03-nette-2.pdf)
 - [Development of Web Applications in Nette Framework (11/2013)](/software-development/2013-11-nette-1.pdf)
+
+## Personality
+
+- [Red Bull Wingfinder – Talent Passport (01/2023)](/personality/2023-01-red-bull-wingfinder-talent-passport.pdf)
