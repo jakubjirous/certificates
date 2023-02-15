@@ -27,3 +27,4 @@ Certificates that I obtain as part of my self-improvement, learning and keeping 
 ## Personality
 
 - [Red Bull Wingfinder – Talent Passport (01/2023)](/personality/2023-01-red-bull-wingfinder-talent-passport.pdf)
+- [Authentic Assertiveness – Next Level Communication Skills (02/2023)](/personality/2023-02-authentic-assertiveness-next-level-communication-skills.pdf) [[online version]](https://www.udemy.com/certificate/UC-fc5b4d9d-ab8a-480c-aefa-1e3ee5d62d60/)
