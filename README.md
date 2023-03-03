@@ -12,7 +12,7 @@ It is a pleasure to share my certificates with you on GitHub not only as a means
 
 ## Software Development
 
-- [Build Reusable React (01/2023)](/software-development/2023-01-build-reusable-react.pdf) [[online version]](https://www.udemy.com/certificate/UC-287ee196-2b04-4e98-bd09-0f78ebac2488/)
+- [Build Reusable React (01/2023)](/software-development/2023-01-build-reusable-react.pdf) 
 - [Testing React with Jest and React Testing Library (RTL) (01/2023)](/software-development/2023-01-testing-react-jest-and-rtl.pdf) [[online version]](https://www.udemy.com/certificate/UC-287ee196-2b04-4e98-bd09-0f78ebac2488/)
 - [Advanced React (01/2023)](/software-development/2023-01-advanced-react.pdf) [[online version]](https://scrimba.com/certificate/u3kER2Hg/greact)
 - [JavaScript – Deep Dive (12/2022)](/software-development/2022-12-javascript-deep-dive.pdf) [[online version]](https://scrimba.com/certificate/u3kER2Hg/gjavascript)
