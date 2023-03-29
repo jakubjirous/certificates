@@ -28,6 +28,10 @@ It is a pleasure to share my certificates with you on GitHub not only as a means
 - [Championship in Nette (03/2018)](/software-development/2018-03-nette-2.pdf)
 - [Development of Web Applications in Nette Framework (11/2013)](/software-development/2013-11-nette-1.pdf)
 
+## Design
+
+- [Figma UI UX Design Essentials (03/2023)](/design/2023-03-figma.pdf) [[online version]](https://www.udemy.com/certificate/UC-2c48adb1-35b0-4046-b532-29a68b1870e9/)
+
 ## Personality
 
 - [Red Bull Wingfinder – Talent Passport (01/2023)](/personality/2023-01-red-bull-wingfinder-talent-passport.pdf)
