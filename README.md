@@ -12,6 +12,7 @@ It is a pleasure to share my certificates with you on GitHub not only as a means
 
 ## 🚀 Software Development
 
+- [Meta – React Basics (01/2024)](/software-development/2024-01-meta-react-basics.pdf) [[online version]](https://coursera.org/verify/P8Z9C22F998P)
 - [Meta – HTML and CSS in depth (12/2023)](/software-development/2023-12-meta-html-and-css-in-depth.pdf) [[online version]](https://coursera.org/verify/ZLX5J8NFMJ4X)
 - [Meta – Version Control (11/2023)](/software-development/2023-11-meta-version-control.pdf) [[online version]](https://coursera.org/verify/3C35CMKPQU6C)
 - [Meta – Programming with JavaScript (10/2023)](/software-development/2023-10-meta-programming-with-javascript.pdf) [[online version]](https://coursera.org/verify/E5Q975CLK5FL)
