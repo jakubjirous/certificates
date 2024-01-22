@@ -1,7 +1,7 @@
 # Certificates
 
 <p align="center">
-<img src="https://private-user-images.githubusercontent.com/10185306/291146647-558c0cb2-a98c-4d93-bc7f-289215448d2f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5MTc0NDYsIm5iZiI6MTcwNDkxNzE0NiwicGF0aCI6Ii8xMDE4NTMwNi8yOTExNDY2NDctNTU4YzBjYjItYTk4Yy00ZDkzLWJjN2YtMjg5MjE1NDQ4ZDJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTEwVDIwMDU0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2M2QyNjYxMDQzYThkZjQ5MGQwM2JkOWYxOWRhMGZkYmU1NjhhNjFkZWM4ODA1MjcyMTIwNmNiMTFmMTYzOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.UT8Uk5rmqsX6Q1DmY6kSEoTsijrliGYPFchvBYNVmcA" alt="Certificates" />
+<img src="https://github.com/jakubjirous/jakubjirous/assets/10185306/558c0cb2-a98c-4d93-bc7f-289215448d2f" alt="Certificates" />
 </p>
 
 This is a testimony to my commitment to staying up-to-date with the latest trends in my field and expanding my knowledge and skills that I have obtained the certificates in my collection.
