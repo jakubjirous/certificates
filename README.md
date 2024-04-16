@@ -12,6 +12,7 @@ It is a pleasure to share my certificates with you on GitHub not only as a means
 
 ## 🚀 Software Development
 
+- [Meta – Coding Interview Preparation (04/2024)](/software-development/2024-04-meta-coding-interview-preparation.pdf) [[online version]](https://coursera.org/verify/A4NEPDS8U586)
 - [Meta – Front-End Developer Capstone (04/2024)](/software-development/2024-04-meta-front-end-developer-capstone.pdf) [[online version]](https://coursera.org/verify/UXCZAMLKHQXZ)
 - [Meta – Advanced React (01/2024)](/software-development/2024-01-meta-advanced-react.pdf) [[online version]](https://coursera.org/verify/LD8LYWJP7XL3)
 - [Meta – React Basics (01/2024)](/software-development/2024-01-meta-react-basics.pdf) [[online version]](https://coursera.org/verify/P8Z9C22F998P)
