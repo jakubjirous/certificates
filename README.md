@@ -39,6 +39,7 @@ It is a pleasure to share my certificates with you on GitHub not only as a means
 
 ## 🎨 Design
 
+- [Design System University – Make Design Systems People Want to Use (10/2024)](/design/2024-10-dsu.pdf) [[online version]](https://www.dropbox.com/scl/fi/aolj2jzlafolqx5c5kvoj/DSU-Certificates-Jakub-Jirous.zip?e=2&file_subpath=%2FDSU+Certificates+-+Jakub+Jirous+PDF.pdf&rlkey=tnaatr3clfk30q8ghskdhujti&st=3dd7qg26&dl=0)
 - [Meta – Principles of UX/UI Design (02/2024)](/design/2024-02-meta-principles-of-ux-ui-design.pdf) [[online version]](https://coursera.org/verify/X37ALHT6SRAM)
 - [Google – Foundations of User Experience (UX) Design (09/2023)](/design/2023-09-google-ux-design.pdf) [[online version]](https://www.coursera.org/account/accomplishments/certificate/HYP63WFT8VN2)
 - [Figma UI UX Design Essentials (03/2023)](/design/2023-03-figma.pdf) [[online version]](https://www.udemy.com/certificate/UC-2c48adb1-35b0-4046-b532-29a68b1870e9/)
